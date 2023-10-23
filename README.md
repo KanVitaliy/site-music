@@ -2,4 +2,4 @@
 ## about music 
 *This site is about Glass Animals*
 ===
-_ About: my name is Vitaliy _
+_About: my name is Vitaliy_
